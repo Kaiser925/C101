@@ -3,3 +3,4 @@ cmake_minimum_required(VERSION 3.5)
 project(C101)
 
 add_subdirectory(hello_world)
+add_subdirectory(io_and_control_stream)
