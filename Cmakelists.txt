@@ -4,3 +4,4 @@ project(C101)
 
 add_subdirectory(hello_world)
 add_subdirectory(io_and_control_stream)
+add_subdirectory(data_type)
